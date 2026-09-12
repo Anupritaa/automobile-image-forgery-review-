@@ -1,0 +1,58 @@
+{
+  "image": "car1.jpg",
+  "created_at": "2026-09-10T15:34:08",
+  "metadata": {
+    "fields": {
+      "SourceFile": "car1.jpg",
+      "ExifToolVersion": 13.55,
+      "FileName": "car1.jpg",
+      "Directory": ".",
+      "FileSize": 45298,
+      "FileModifyDate": "2026:09:02 14:54:00+05:30",
+      "FileAccessDate": "2026:09:08 17:57:33+05:30",
+      "FileInodeChangeDate": "2026:09:02 14:54:05+05:30",
+      "FilePermissions": 100644,
+      "FileType": "JPEG",
+      "FileTypeExtension": "JPG",
+      "MIMEType": "image/jpeg",
+      "JFIFVersion": "1 1",
+      "ResolutionUnit": 1,
+      "XResolution": 96,
+      "YResolution": 96,
+      "ImageWidth": 480,
+      "ImageHeight": 600,
+      "EncodingProcess": 2,
+      "BitsPerSample": 8,
+      "ColorComponents": 3,
+      "YCbCrSubSampling": "2 2",
+      "ImageSize": "480 600",
+      "Megapixels": 0.288
+    },
+    "review_flags": [
+      "Original capture time is unavailable.",
+      "GPS location is unavailable."
+    ]
+  },
+  "image_quality": {
+    "width": 480,
+    "height": 600,
+    "blur_laplacian_variance": 1277.46,
+    "mean_brightness": 154.14,
+    "noise_proxy": 35.74,
+    "flags": [
+      "Low resolution may limit feature matching."
+    ]
+  },
+  "copy_move": {
+    "status": "no_strong_evidence",
+    "keypoints": 2177,
+    "candidate_matches": 482,
+    "geometric_inliers": 14,
+    "reason": "Too few geometrically consistent matches."
+  },
+  "safire": {
+    "map_available": true,
+    "map_path": "results/safire/car1.jpg.png",
+    "note": "SAFIRE map is review evidence, not a final forgery decision."
+  }
+}

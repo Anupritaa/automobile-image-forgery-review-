@@ -1,0 +1,51 @@
+{
+  "image": "car.jpg",
+  "created_at": "2026-09-10T10:46:25",
+  "metadata": {
+    "fields": {
+      "SourceFile": "car.jpg",
+      "ExifToolVersion": 13.55,
+      "FileName": "car.jpg",
+      "Directory": ".",
+      "FileSize": 31746,
+      "FileModifyDate": "2026:09:02 13:23:04+05:30",
+      "FileAccessDate": "2026:09:10 10:38:21+05:30",
+      "FileInodeChangeDate": "2026:09:02 13:24:11+05:30",
+      "FilePermissions": 100644,
+      "FileType": "WEBP",
+      "FileTypeExtension": "WEBP",
+      "MIMEType": "image/webp",
+      "VP8Version": 0,
+      "ImageWidth": 1280,
+      "HorizontalScale": 0,
+      "ImageHeight": 720,
+      "VerticalScale": 0,
+      "ImageSize": "1280 720",
+      "Megapixels": 0.9216
+    },
+    "review_flags": [
+      "Original capture time is unavailable.",
+      "GPS location is unavailable."
+    ]
+  },
+  "image_quality": {
+    "width": 1280,
+    "height": 720,
+    "blur_laplacian_variance": 601.51,
+    "mean_brightness": 191.19,
+    "noise_proxy": 24.53,
+    "flags": []
+  },
+  "copy_move": {
+    "status": "no_strong_evidence",
+    "keypoints": 2500,
+    "candidate_matches": 326,
+    "geometric_inliers": 10,
+    "reason": "Too few geometrically consistent matches."
+  },
+  "safire": {
+    "map_available": true,
+    "map_path": "results/safire/car.jpg.png",
+    "note": "SAFIRE map is review evidence, not a final forgery decision."
+  }
+}
