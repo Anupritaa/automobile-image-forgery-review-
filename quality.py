@@ -19,7 +19,7 @@ def assess_quality(image: np.ndarray) -> dict[str, Any]:
     if width < 800 or height < 600:
         flags.append("Low resolution may limit feature matching.")
     if blur_score < 80:
-        flags.append("Image appears blurred; copy-move matches may be unreliable.")
+        flags.append("Image appears blurred, copy-move matches may be unreliable.")
     if brightness < 40:
         flags.append("Image appears underexposed.")
     elif brightness > 220:
